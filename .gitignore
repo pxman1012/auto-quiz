@@ -1,0 +1,17 @@
+venv/
+chrome-profile/
+quiz_data/
+quiz_db.json
+debug*.png
+__pycache__/
+*.pyc
+*.tmp
+
+# ========== ignore files for quiz images ==========
+*.png
+auto_quiz.py
+auto_quiz_gui*.py
+test_find.py
+run_all.bat
+run_auto_quiz*.bat
+open_chrome_quiz.bat

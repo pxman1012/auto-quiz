@@ -1,0 +1,7 @@
+﻿pyautogui
+opencv-python
+pillow
+numpy
+keyboard
+pywin32
+websocket-client
